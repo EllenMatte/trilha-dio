@@ -1,2 +1,2 @@
-# trilha-python-dio
+# trilha-dio
 
